@@ -8,7 +8,7 @@
  * File:   main.cpp
  * Author: eleve
  *
- * Created on 26 novembre 2015, 08:20
+ * Created on 26 novembre 2015, 10:00
  */
 
 #include <iostream>
@@ -16,12 +16,11 @@
 using namespace std;
 
 /*
- * 
+ * Mini-M powaa
  */
 int main(int argc, char** argv) {
-    
-    cout << "hello world" <<endl;
 
+    cout << "Hello World"<<endl;
     return 0;
 }
 
