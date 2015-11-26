@@ -19,7 +19,7 @@ using namespace std;
  * Mini-M powaa . Non Come Powaaa!
  */
 int main(int argc, char** argv) {
-
+    cout << "Test" << endl;
     cout << "Hello World v2"<<endl;
     cout << "Je suis LE PARTOOON"<<endl;
     return 0;
