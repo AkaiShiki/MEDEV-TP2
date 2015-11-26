@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-/* 
+/*
  * File:   main.cpp
  * Author: eleve
  *
@@ -16,11 +16,11 @@
 using namespace std;
 
 /*
- * Mini-M powaa
+ * Mini-M powaa . Non Come Powaaa!
  */
 int main(int argc, char** argv) {
 
-    cout << "Hello World"<<endl;
+    cout << "Hello World v2"<<endl;
     return 0;
 }
 
