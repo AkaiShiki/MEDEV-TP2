@@ -12,6 +12,7 @@
  */
 
 #include <iostream>
+#include "display.h"
 
 using namespace std;
 
@@ -22,6 +23,9 @@ int main(int argc, char** argv) {
     cout << "Test" << endl;
     cout << "Hello World v2"<<endl;
     cout << "Je suis LE PARTOOON"<<endl;
+    
+    affiche("lena.pgm");
+    
     return 0;
 }
 
