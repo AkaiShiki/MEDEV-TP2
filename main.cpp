@@ -17,14 +17,11 @@
 using namespace std;
 
 /*
- * Mini-M powaa . Non Come Powaaa!
+ * 
  */
 int main(int argc, char** argv) {
-    cout << "Test and modification" << endl;
-    cout << "Hello World v2"<<endl;
-    cout << "Je suis LE PARTOOON"<<endl;
-    
-    affiche("lena.pgm");
+   
+    affiche("lena.pgm"); //Fonction de lecture du fichier pgm
     
     return 0;
 }
