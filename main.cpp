@@ -21,6 +21,7 @@ using namespace std;
 int main(int argc, char** argv) {
 
     cout << "Hello World v2"<<endl;
+    cout << "Je suis LE PARTOOON"<<endl;
     return 0;
 }
 
